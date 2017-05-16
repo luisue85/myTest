@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Demo Alta Digital</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_details_header">Detalles:</string>
+    <string name="image_preview_header">Preview:</string>
+    <string name="loading_message">Cargando imagen...</string>
+
+    <!--string name="dialog_select_prompt">Choose a picture</string-->
+    <string name="dialog_select_prompt">Elige una imagen</string>
+    <string name="dialog_select_camera">Cámara</string>
+    <string name="dialog_select_gallery">Galería</string>
+
+    <string name="image_picker_error">Algo sucedió con la imagen. Selecciona otra diferente.</string>
+</resources>
